@@ -1,0 +1,2 @@
+include ':app', ':libaray'
+rootProject.name='repostioryLibaray'
